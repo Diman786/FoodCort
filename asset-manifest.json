@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FoodCort/static/css/main.89278c3a.css",
+    "main.js": "/FoodCort/static/js/main.5b5dd5d8.js",
+    "static/js/453.2cecc6e0.chunk.js": "/FoodCort/static/js/453.2cecc6e0.chunk.js",
+    "static/media/povar.jpg": "/FoodCort/static/media/povar.577866d3ed38cb8aa83f.jpg",
+    "static/media/povar2.jpg": "/FoodCort/static/media/povar2.29f5b1dd8978282bdf98.jpg",
+    "static/media/povar3.jpg": "/FoodCort/static/media/povar3.0aa7348fbd0d99f74477.jpg",
+    "index.html": "/FoodCort/index.html",
+    "main.89278c3a.css.map": "/FoodCort/static/css/main.89278c3a.css.map",
+    "main.5b5dd5d8.js.map": "/FoodCort/static/js/main.5b5dd5d8.js.map",
+    "453.2cecc6e0.chunk.js.map": "/FoodCort/static/js/453.2cecc6e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89278c3a.css",
+    "static/js/main.5b5dd5d8.js"
+  ]
+}
